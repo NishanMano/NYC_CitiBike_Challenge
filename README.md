@@ -1,5 +1,7 @@
 # NYC Citibike Challenge 
 
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/nishanthan.manoharan")
+
 ## Overview 
 
 We pulled data from NYC Citibike data from August 2019 and wanted to use this information to encourage potential investors in opening up a new Citibike location in another city Des Moines, Iowa. We used Tableau Public, Jupyter Notebook, and Python in order to create visualizations. The visualizations were used to create the various diagrams and graphs such as:

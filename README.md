@@ -1,6 +1,7 @@
 # NYC Citibike Challenge 
 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/nishanthan.manoharan")
+Public Tableau link below: 
+[Tableau Dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/nishanthan.manoharan")
 
 ## Overview 
 
